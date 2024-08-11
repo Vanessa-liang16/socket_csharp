@@ -1,0 +1,18 @@
+﻿<Window x:Class="Socket_project.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Socket_project"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="IP" HorizontalAlignment="Left" Margin="262,68,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="245" Height="37"/>
+        <Label x:Name="message" Content="" HorizontalAlignment="Left" Margin="87,129,0,0" VerticalAlignment="Top" Width="420" Height="242" BorderThickness="1,1,1,1" BorderBrush="#FF9B9B9B"/>
+        <Button x:Name="start_server" Content="Start Server" HorizontalAlignment="Left" Margin="539,129,0,0" VerticalAlignment="Top" Height="106" Width="181" Click="StartServer_Click"/>
+        <Button x:Name="stop_listen" Content="Stop Listen" HorizontalAlignment="Left" Margin="539,250,0,0" VerticalAlignment="Top" Height="121" Width="181" Click="StopListen_Click"/>
+        <TextBox x:Name="port" HorizontalAlignment="Left" Margin="539,68,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="181" Height="37"/>
+        <Label Content="Host Address : " HorizontalAlignment="Left" Margin="87,73,0,0" VerticalAlignment="Top" Width="145"/>
+
+    </Grid>
+</Window>

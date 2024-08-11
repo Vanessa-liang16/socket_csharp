@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Socket_project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC4209BA-C3BF-4D7E-8D8D-B772E56B309D}|Socket_project\\Socket_project.csproj|c:\\users\\user\\source\\repos\\socket_project\\socket_project\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC4209BA-C3BF-4D7E-8D8D-B772E56B309D}|Socket_project\\Socket_project.csproj|solutionrelative:socket_project\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC4209BA-C3BF-4D7E-8D8D-B772E56B309D}|Socket_project\\Socket_project.csproj|c:\\users\\user\\source\\repos\\socket_project\\socket_project\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC4209BA-C3BF-4D7E-8D8D-B772E56B309D}|Socket_project\\Socket_project.csproj|solutionrelative:socket_project\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC4209BA-C3BF-4D7E-8D8D-B772E56B309D}|Socket_project\\Socket_project.csproj|c:\\users\\user\\source\\repos\\socket_project\\socket_project\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CC4209BA-C3BF-4D7E-8D8D-B772E56B309D}|Socket_project\\Socket_project.csproj|solutionrelative:socket_project\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC4209BA-C3BF-4D7E-8D8D-B772E56B309D}|Socket_project\\Socket_project.csproj|c:\\users\\user\\source\\repos\\socket_project\\socket_project\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CC4209BA-C3BF-4D7E-8D8D-B772E56B309D}|Socket_project\\Socket_project.csproj|solutionrelative:socket_project\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC4209BA-C3BF-4D7E-8D8D-B772E56B309D}|Socket_project\\Socket_project.csproj|c:\\users\\user\\source\\repos\\socket_project\\socket_project\\window2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CC4209BA-C3BF-4D7E-8D8D-B772E56B309D}|Socket_project\\Socket_project.csproj|solutionrelative:socket_project\\window2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC4209BA-C3BF-4D7E-8D8D-B772E56B309D}|Socket_project\\Socket_project.csproj|c:\\users\\user\\source\\repos\\socket_project\\socket_project\\window2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC4209BA-C3BF-4D7E-8D8D-B772E56B309D}|Socket_project\\Socket_project.csproj|solutionrelative:socket_project\\window2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Socket_project\\Socket_project\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Socket_project\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Socket_project\\Socket_project\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Socket_project\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAPsAAAAAAAAAAAAAwAgBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:26:08.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Window1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Socket_project\\Socket_project\\Window1.xaml.cs",
+              "RelativeDocumentMoniker": "Socket_project\\Window1.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Socket_project\\Socket_project\\Window1.xaml.cs",
+              "RelativeToolTip": "Socket_project\\Window1.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAHYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T00:35:10.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Window2.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Socket_project\\Socket_project\\Window2.xaml.cs",
+              "RelativeDocumentMoniker": "Socket_project\\Window2.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Socket_project\\Socket_project\\Window2.xaml.cs",
+              "RelativeToolTip": "Socket_project\\Window2.xaml.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAUwI8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T00:50:59.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Socket_project\\Socket_project\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Socket_project\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Socket_project\\Socket_project\\MainWindow.xaml",
+              "RelativeToolTip": "Socket_project\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-09T12:26:12.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Window1.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Socket_project\\Socket_project\\Window1.xaml",
+              "RelativeDocumentMoniker": "Socket_project\\Window1.xaml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Socket_project\\Socket_project\\Window1.xaml",
+              "RelativeToolTip": "Socket_project\\Window1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-09T12:36:46.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Window2.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Socket_project\\Socket_project\\Window2.xaml",
+              "RelativeDocumentMoniker": "Socket_project\\Window2.xaml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Socket_project\\Socket_project\\Window2.xaml",
+              "RelativeToolTip": "Socket_project\\Window2.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-09T12:49:18.487Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

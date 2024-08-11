@@ -1,0 +1,23 @@
+﻿<Window x:Class="Socket_project.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Socket_project"
+        mc:Ignorable="d"
+        Title="Window1" Height="450" Width="800">
+    <Grid>
+        <Label Content="Socket Address : " HorizontalAlignment="Left" Margin="52,46,0,0" VerticalAlignment="Top" Width="127"/>
+        <Label Content="User name : " HorizontalAlignment="Left" Margin="52,98,0,0" VerticalAlignment="Top" Width="127"/>
+        <Label Content="Message : " HorizontalAlignment="Left" Margin="52,156,0,0" VerticalAlignment="Top" Width="127"/>
+        <TextBox x:Name="IP" HorizontalAlignment="Left" Margin="200,45,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="254" Height="40"/>
+        <TextBox x:Name="port1" HorizontalAlignment="Left" Margin="473,46,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="112" Height="41"/>
+        <TextBox x:Name="user1" HorizontalAlignment="Left" Margin="200,97,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="254" Height="41"/>
+        <TextBox x:Name="message1" HorizontalAlignment="Left" Margin="200,149,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="385" Height="41"/>
+        <Label x:Name="client_message1" Content="" HorizontalAlignment="Left" Height="204" Margin="52,197,0,0" VerticalAlignment="Top" Width="679" BorderBrush="#FFC3BEBE" BorderThickness="1,1,1,1"/>
+        <Button x:Name="Disconnect1" Content="Disconnet" HorizontalAlignment="Left" Margin="633,98,0,0" VerticalAlignment="Top" Width="98" Height="40" Click="Disconnect_Click"/>
+        <Button x:Name="send1" Content="Send" HorizontalAlignment="Left" Margin="633,156,0,0" VerticalAlignment="Top" Width="98" Height="34" Click="Send_Click"/>
+        <Button x:Name="connect1" Content="connect" HorizontalAlignment="Left" Margin="633,45,0,0" VerticalAlignment="Top" Width="98" Height="40" Click="Connect_Click"/>
+
+    </Grid>
+</Window>
